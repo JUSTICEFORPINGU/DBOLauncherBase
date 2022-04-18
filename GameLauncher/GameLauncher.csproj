@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Emblema.ico</ApplicationIcon>
+    <AssemblyName>DBOLauncher</AssemblyName>
+    <Authors>ElHave</Authors>
+    <Company>InchaosDB</Company>
+    <Product />
+    <Nullable></Nullable>
+    <StartupObject />
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Copyright>InchaosDB™ ©opyright 2022</Copyright>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <PlatformTarget></PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="580b57fcd9996e24bc43c540.png" />
+    <None Remove="client182.png" />
+    <None Remove="clientc.png" />
+    <None Remove="clientrc.png" />
+    <None Remove="dragon-ball-super-png-transparent-image %281%29.png" />
+    <None Remove="Emblema2 - copia.bmp" />
+    <None Remove="Emblema2.png" />
+    <None Remove="gokuveg.png" />
+    <None Remove="gokuveg2.png" />
+    <None Remove="gokuveg23r.png" />
+    <None Remove="gokuveg2r.png" />
+    <None Remove="images\Icon.ico" />
+    <None Remove="images\LauncherBackground.png" />
+    <None Remove="internet-clipart-world-wide-web-world-wide-web-helmet-clothing-apparel-outer-space-transparent-png-1343059.png" />
+    <None Remove="kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec2bbfbf0.71774046152880710677.png" />
+    <None Remove="Nuevo proyecto.png" />
+    <None Remove="pngegg.png" />
+    <None Remove="serverc.png" />
+    <None Remove="web_login_title.png" />
+    <None Remove="_21_dragonball-z-background_Dual-monitor-Dragon-Ball-Z-DBZ-wallpapers-HD-backgrounds.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="580b57fcd9996e24bc43c540.png" />
+    <Resource Include="client182.png" />
+    <Resource Include="clientc.png" />
+    <Resource Include="clientrc.png" />
+    <Resource Include="dragon-ball-super-png-transparent-image (1).png" />
+    <Resource Include="Emblema2 - copia.bmp" />
+    <Resource Include="Emblema2.png" />
+    <Resource Include="gokuveg.png" />
+    <Resource Include="gokuveg2.png" />
+    <Resource Include="gokuveg23r.png" />
+    <Resource Include="gokuveg2r.png" />
+    <Resource Include="images\Icon.ico" />
+    <Resource Include="images\LauncherBackground.png" />
+    <Resource Include="internet-clipart-world-wide-web-world-wide-web-helmet-clothing-apparel-outer-space-transparent-png-1343059.png" />
+    <Resource Include="kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec2bbfbf0.71774046152880710677.png" />
+    <Resource Include="Nuevo proyecto.png" />
+    <Resource Include="pngegg.png" />
+    <Resource Include="serverc.png" />
+    <Resource Include="web_login_title.png" />
+    <Resource Include="_21_dragonball-z-background_Dual-monitor-Dragon-Ball-Z-DBZ-wallpapers-HD-backgrounds.jpg" />
+  </ItemGroup>
+
+</Project>
