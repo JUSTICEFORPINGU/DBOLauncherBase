@@ -671,7 +671,7 @@
                 <ImageBrush ImageSource="/internet-clipart-world-wide-web-world-wide-web-helmet-clothing-apparel-outer-space-transparent-png-1343059.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <WebBrowser Margin="5,155,0,0" InputScope="Url" ScrollViewer.VerticalScrollBarVisibility="Auto" Source="https://pastebin.com/raw/0gGNKWD2" Width="412" HorizontalAlignment="Left" VerticalAlignment="Top" Height="432"/>
+        <WebBrowser Margin="5,155,0,0" InputScope="Url" ScrollViewer.VerticalScrollBarVisibility="Auto" Source="your changelog link" Width="412" HorizontalAlignment="Left" VerticalAlignment="Top" Height="432"/>
         <Button Style="{DynamicResource ButtonStyle7}" Content="" HorizontalAlignment="Left" Margin="813,8,0,0" VerticalAlignment="Top" Height="40" Width="42" Click="Click_youtube" BorderThickness="0,1,8,12" BorderBrush="#00000000" ClipToBounds="True" MouseEnter="Button_MouseEnter_4">
             <Button.Foreground>
                 <ImageBrush Stretch="Fill" ImageSource="/kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec2bbfbf0.71774046152880710677.png" TileMode="None" AlignmentX="Center" AlignmentY="Center" ViewportUnits="RelativeToBoundingBox" ViewboxUnits="RelativeToBoundingBox"/>
